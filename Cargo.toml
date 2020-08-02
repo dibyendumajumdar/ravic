@@ -1,0 +1,15 @@
+[package]
+name = "ravic"
+version = "0.1.0"
+authors = ["Dibyendu Majumdar <mobile@majumdar.org.uk>"]
+license = "MIT OR Apache-2.0"
+edition = "2018"
+
+repository = "https://github.com/dibyendumajumdar/ravic/"
+description = """
+Lexer for Lua / Ravi
+"""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
